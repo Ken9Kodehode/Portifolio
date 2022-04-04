@@ -113,7 +113,7 @@ h4{
 	height: auto;
 	width: 430px;
 /*	Denne verdien her gir litt rundere kanter på bildet ditt, ser litt pener ut enn firkantet :)	*/
-border-radius: 20px 20px 20px 20px;
+border-radius: 50px 50px 50px 50px;
 
 }
 .about-text{
